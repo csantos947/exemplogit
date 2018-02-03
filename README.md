@@ -3,3 +3,5 @@ https://4rodas.000webhostapp.com/index.html
 
 Sistema de Controle de Estoque (Download GrupoAbrilTeste.rar)
 OBS: extrair o programa no diretório c:\ para funcionar corretamente.
+
+Para acessar o sistema, utilizar o Usuário: Admin e Senha: Admin
